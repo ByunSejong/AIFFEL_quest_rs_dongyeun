@@ -18,75 +18,80 @@
 
 ### 레포 구조
 
-
+`
 ```bash
-MainQuest/
-├── Quest01/
-│   ├── .ipynb
+MainQuest
+├── Quest01
+│   ├── Quest01.ipynb
 │   └── README.md
-├── Quest02/
-│   ├── .ipynb
+├── Quest02
+│   ├── Quest02.ipynb
 │   └── README.md
-├── Quest03/
-│   ├── .ipynb
+├── Quest03
+│   ├── Quest03.ipynb
 │   └── README.md
-├── Quest04/
-│   ├── .ipynb
+├── Quest04
+│   ├── Quest04.ipynb
 │   └── README.md
-└── Quest05/
-    ├── .ipynb
+└── Quest05
+    ├── Quest05.ipynb
     └── README.md
-Exploration/
-├── Ex01/
-│   ├── .ipynb
+
+
+Exploration
+├── Ex01
+│   ├── Ex01.ipynb
 │   └── README.md
-├── Ex02/
-│   ├── .ipynb
+├── Ex02
+│   ├── Ex02.ipynb
 │   └── README.md
-├── Ex03/
-│   ├── .ipynb
+├── Ex03
+│   ├── Ex03.ipynb
 │   └── README.md
-├── Ex04/
-│   ├── .ipynb
+├── Ex04
+│   ├── Ex04.ipynb
 │   └── README.md
-├── Ex05/
-│   ├── .ipynb
+├── Ex05
+│   ├── Ex05.ipynb
 │   └── README.md
-├── Ex06/
-│   ├── .ipynb
+├── Ex06
+│   ├── Ex06.ipynb
 │   └── README.md
-├── Ex07/
-│   ├── .ipynb
+├── Ex07
+│   ├── Ex07.ipynb
 │   └── README.md
-└── Ex08/
-    ├── .ipynb
+└── Ex08
+    ├── Ex08.ipynb
     └── README.md
-GoingDeeper/
-├── GD01/
-│   ├── .ipynb
+
+
+GoingDeeper
+├── GD01
+│   ├── GD01.ipynb
 │   └── README.md
-├── GD02/
-│   ├── .ipynb
+├── GD02
+│   ├── GD02.ipynb
 │   └── README.md
-├── GD03/
-│   ├── .ipynb
+├── GD03
+│   ├── GD03.ipynb
 │   └── README.md
-├── GD04/
-│   ├── .ipynb
+├── GD04
+│   ├── GD04.ipynb
 │   └── README.md
-├── GD05/
-│   ├── .ipynb
+├── GD05
+│   ├── GD05.ipynb
 │   └── README.md
-├── GD06/
-│   ├── .ipynb
+├── GD06
+│   ├── GD06.ipynb
 │   └── README.md
-├── GD07/
-│   ├── .ipynb
+├── GD07
+│   ├── GD07.ipynb
 │   └── README.md
-├── GD08/
-│   ├── .ipynb
+├── GD08
+│   ├── GD08.ipynb
 │   └── README.md
-└── GD09/
-    ├── .ipynb
+└── GD09
+    ├── GD09.ipynb
     └── README.md
+
 ```
