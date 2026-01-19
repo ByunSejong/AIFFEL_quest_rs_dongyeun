@@ -1,4 +1,4 @@
-# AIFFEL Campus Online Code Peer Review Templete
+<img width="380" height="174" alt="image" src="https://github.com/user-attachments/assets/d2254dfd-29c8-4596-9e60-37c4ea8676b8" /># AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
 
@@ -15,7 +15,9 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        
+        ![Uploading image.png…]()
+![Uploading image.png…]()
+
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
